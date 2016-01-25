@@ -1,0 +1,22 @@
+{
+  "name": "js-study",
+  "version": "1.0.0",
+  "description": "A collection of javascript(Node.js) examples and tutorials",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuma-research/js-study.git"
+  },
+  "author": "Vincent Zhao <vincentzhaorz@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuma-research/js-study/issues"
+  },
+  "homepage": "https://github.com/kuma-research/js-study#readme",
+  "dependencies": {
+    "bluebird": "^3.1.2"
+  }
+}
